@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata = {
   title: "Enjoy movie hub with Disney plus watch party",
   description:
-    "Disney plus watch party allows subscribers to see movies and shows with friends in real-time and synchronize playback, chat, audio, and video calls, and share magical moments together.",
+    "Disney+ Watch Party lets subscribers watch movies/shows with friends in real-time, sync playback, chat, audio/video calls, and share magical moments together. ",
 };
 
 export default function RootLayout({ children }) {
@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="Disney plus watch party " />
         <meta
           property="og:description"
-          content="Disney plus watch party allows subscribers to see movies and shows with friends in real-time and synchronize playback, chat, audio, and video calls, and share magical moments together."
+          content="Disney+ Watch Party lets subscribers watch movies/shows with friends in real-time, sync playback, chat, audio/video calls, and share magical moments together. "
         />
         <meta
           property="og:image"
@@ -46,7 +46,7 @@ export default function RootLayout({ children }) {
         <meta name="twitter:title" content="Disney plus watch party " />
         <meta
           name="twitter:description"
-          content="Disney plus watch party allows subscribers to see movies and shows with friends in real-time and synchronize playback, chat, audio, and video calls, and share magical moments together."
+          content="Disney+ Watch Party lets subscribers watch movies/shows with friends in real-time, sync playback, chat, audio/video calls, and share magical moments together. "
         />
         <meta
           name="twitter:image"

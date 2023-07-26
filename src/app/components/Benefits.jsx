@@ -42,7 +42,7 @@ const Benefits = () => {
               <p>
                 With teleparty Disney plus, users can create memorable shared
                 experiences, making streaming more enjoyable and social for
-                everyone involved. Whether it's binge popular shows or catching
+                everyone involved. Whether it&apos;s binge popular shows or catching
                 the latest movies, this extension brings people together for a
                 fun and immersive entertainment experience.
               </p>

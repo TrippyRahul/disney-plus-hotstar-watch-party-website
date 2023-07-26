@@ -35,7 +35,7 @@ const Hero = () => {
           <p>
             You can start a virtual party and invite others to join. Everyone
             sees the same thing on their screens and can Disneyplus chat
-            together while streaming. It's a fun way to enjoy classics and new
+            together while streaming. It&apos;s a fun way to enjoy classics and new
             releases, bringing people closer and making the streaming experience
             more social. Whether you want to relive old memories or discover new
             magic, the Disney Plus extension lets you have a great time with

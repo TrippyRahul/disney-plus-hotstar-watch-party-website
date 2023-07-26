@@ -23,8 +23,8 @@ const Work = () => {
             the movie or TV show you want to share with your friends.
           </li>
           <li>
-            <span>Start Party: </span>Once you've chosen the content, click on
-            the browser extension icon in your browser's toolbar. This will
+            <span>Start Party: </span>Once you&apos;ve chosen the content, click on
+            the browser extension icon in your browser&apos;s toolbar. This will
             initiate the party session.
           </li>
           <li>

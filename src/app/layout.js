@@ -14,15 +14,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="icon" type="image/x-icon" href="/logo.svg" />
-        <link
-          rel="canonical"
-          href="https://www.disneyplushotstarwatchparty.com/"
-        />
+        <link rel="canonical" href="https://www.disneyhotstarparty.com/" />
 
-        <meta
-          property="og:url"
-          content="https://www.disneyplushotstarwatchparty.com/"
-        />
+        <meta property="og:url" content="https://www.disneyhotstarparty.com/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Disney plus watch party " />
         <meta
@@ -31,17 +25,14 @@ export default function RootLayout({ children }) {
         />
         <meta
           property="og:image"
-          content="https://www.disneyplushotstarwatchparty.com/footer-logo.svg"
+          content="https://www.disneyhotstarparty.com/footer-logo.svg"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:domain"
-          content="disneyplushotstarwatchparty.com"
-        />
+        <meta property="twitter:domain" content="disneyhotstarparty.com/" />
         <meta
           property="twitter:url"
-          content="https://www.disneyplushotstarwatchparty.com/"
+          content="https://www.disneyhotstarparty.com/"
         />
         <meta name="twitter:title" content="Disney plus watch party " />
         <meta
@@ -50,7 +41,7 @@ export default function RootLayout({ children }) {
         />
         <meta
           name="twitter:image"
-          content="https://www.disneyplushotstarwatchparty.com/footer-logo.svg"
+          content="https://www.disneyhotstarparty.com/footer-logo.svg"
         />
       </head>
       <body>

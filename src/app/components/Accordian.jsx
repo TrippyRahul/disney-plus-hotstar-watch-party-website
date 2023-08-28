@@ -9,7 +9,7 @@ const questions = [
   {
     id: 1,
     ques: "How to do groupwatch on Disney plus?    ",
-    ans: " Start a movie or show, then invite friends through the icon to stream together in real-time.",
+    ans: "Start a movie or show, then invite friends through the icon to stream together in real-time.",
   },
   {
     id: 2,
@@ -29,17 +29,17 @@ const questions = [
   {
     id: 5,
     ques: "How does Groupwatch on Disney Plus work?",
-    ans: "After installing it on your browser, you can activate your account and start exploring your favorite content. You can also share the link with your friends to see movies together.",
+    ans: "After installing it on your browser, you can log in to your account and start exploring your favorite content. You can also share the link with your friends to see movies together.",
   },
   {
     id: 6,
     ques: "How to screen share Disney Plus?    ",
-    ans: " Use this extension to activate your account. Where you will get an option to share the link with your best buddy.",
+    ans: "Use this extension and log in to your account. Where you will get an option to share the link with your best buddy.",
   },
   {
     id: 7,
     ques: "How to share Disney Plus with family?    ",
-    ans: "To share this with your family, create separate profiles within your account, or subscribe to the Bundle which includes multiple streaming services to enjoy content on different devices simultaneously for the whole family.",
+    ans: "To share this with your family, install the extension. After installing it you can generate a link and share it with your family and friends.",
   },
 ];
 

@@ -10,16 +10,15 @@ const Favorite = () => {
           <div className={styles.left}>
             <div className={styles["left-top"]}>
               <div className={styles.headings}>
-                <h2>Sync with Hotstar watch party</h2>
+                <h2>Watch Hotstar watch party at the same time</h2>
               </div>
               <div className={styles.desc}>
                 <p>
-                  Experience fantastic showtime with your loved ones. Simply log
-                  in together and invite your friends. This extension allows you
-                  to see shows and movies simultaneously while having audio and
-                  video calls, making it a fun and interactive experience. Enjoy
-                  fast buffering and HD video quality on your browser for an
-                  immersive entertainment session.
+                  Have the best showtime with your buddy by simply logging in
+                  together and inviting them. This browser extension will allow
+                  you to watch movies while having audio and video calls. With
+                  these features, you can have fun and watch shows together. So,
+                  speed up your buffering and HD video quality on your browser.
                 </p>
               </div>
             </div>
@@ -59,17 +58,17 @@ const Favorite = () => {
           </div>
           <div className={styles["bottom-right"]}>
             <div className={styles.headings}>
-              <h2>Customize your perfect party</h2>
+              <h2>Personalize your party</h2>
             </div>
             <div className={styles.desc}>
               <p>
-                Get ready to personalize your party with this awesome extension.
-                Choose a creative user icon and unlock cool features like chat,
-                audio calls, and video calls. Stream your favorite movies with
-                your loved ones, all from the comfort of your own space. This
-                extension offers top-notch content from your favorite OTT
-                platforms, providing high-quality streaming with fantastic
-                features enjoy Disney+group watch.
+                Now it’s time to customize your own party with this extension.
+                It’s just you need to choose a create user icon and unlock all
+                the cool features including chat, audio, and video calls. Watch
+                your favorite shows with your close ones in your comfort zone.
+                It offers top content from all your favorite OTT platforms,
+                which provides high-quality shows with fantastic features on
+                Disney+group watch.
               </p>
             </div>
           </div>

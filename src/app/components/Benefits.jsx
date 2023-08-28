@@ -21,30 +21,22 @@ const Benefits = () => {
           <div className={styles.top}>
             <div className={styles.headings}>
               <h2>
-                Enjoy limitless streaming on multiple websites with Hotstar
-                party extension
+              Enjoy limitless streaming with Hotstar party extension
+
               </h2>
             </div>
             <div className={styles.desc}>
               <p>
-                Have limitless streaming on multiple websites with Hotstar. This
-                fantastic extension allows users to host virtual parties and
-                stream their favorite content from various websites, including
-                Hotstar, with friends and family.
+              Have limitless streaming with Hotstar. This browser extension allows you to host virtual parties and watch their favorite content from Hotstar which you can watch with your family and friends.
+
               </p>
               <p>
-                It synchronizes the playback, so everyone views the same thing
-                simultaneously, no matter where they are located. The extension
-                also offers a chat feature with audio and video calls, making it
-                easy for participants to interact and share their thoughts
-                during the streaming session.
+              It also synchronizes the playback so that you can view the same thing at the same time. This browser extension has some brilliant features like chat and video/audio calls. With these features, you can interact and share your thoughts while streaming a show.
+
               </p>
               <p>
-                With teleparty Disney plus, users can create memorable shared
-                experiences, making streaming more enjoyable and social for
-                everyone involved. Whether it&apos;s binge popular shows or catching
-                the latest movies, this extension brings people together for a
-                fun and immersive entertainment experience.
+              In case you have missed your favorite movie in theaters, then with teleparty Disney Plus, you can watch it with your friends and family. So, whether it is a popular show or watching the latest movies, this extension will bring you together to have a fun and unlimited entertainment experience.
+
               </p>
             </div>
             <div className={styles.btn}>

@@ -49,7 +49,7 @@ const Schema = () => {
                   name: "How does Groupwatch on Disney Plus work?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "After installing it on your browser, you can activate your account and start exploring your favorite content. You can also share the link with your friends to see movies together. You can watch the multiple latest series and movies on Teleparty Netflix and you can also Netflix chat.",
+                    text: "After installing it on your browser, you can log in to your account and start exploring your favorite content. You can also share the link with your friends to see movies together. ",
                   },
                 },
                 {
@@ -57,7 +57,7 @@ const Schema = () => {
                   name: "How to screen share Disney Plus?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "Use this extension to activate your account. Where you will get an option to share the link with your best buddy.",
+                    text: "Use this extension and log in to your account. Where you will get an option to share the link with your best buddy.",
                   },
                 },
                 {
@@ -65,7 +65,7 @@ const Schema = () => {
                   name: "How to share Disney Plus with family?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "To share this with your family, create separate profiles within your account, or subscribe to the Bundle which includes multiple streaming services to enjoy content on different devices simultaneously for the whole family.",
+                    text: "To share this with your family, install the extension. After installing it you can generate a link and share it with your family and friends.",
                   },
                 },
               ],

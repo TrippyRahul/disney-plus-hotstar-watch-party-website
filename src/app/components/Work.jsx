@@ -6,52 +6,50 @@ const Work = () => {
   return (
     <div className={styles.work} id="how-it-works">
       <div className={styles.container}>
-        <h2 id="work">How to view Disney Plus on a browser</h2>
-        <h3>To see this extension on your browser, follow these steps:</h3>
+        <h2 id="work">How to watch Disney Plus on your browser</h2>
+        <h3>There are some steps to watch this extension on your browser:-</h3>
 
         <ul className={styles.content}>
           <li>
-            <span>Install Extension:</span> First, you need to install this
-            browser extension that supports it’s features.{" "}
+            <span>Install</span> the extension
           </li>
           <li>
-            <span>Open Website:</span> After installing the extension, open your
-            web browser and navigate to the website and sign in to your account.
+            Then, after installing it, open it in your browser and{" "}
+            <span> sign in to your account</span>
           </li>
           <li>
-            <span>Choose Content:</span> Browse through the library and select
-            the movie or TV show you want to share with your friends.
+            Now, browse it and select the movie or TV show that you want to
+            <span> watch or share with your friends</span>
           </li>
           <li>
-            <span>Start Party: </span>Once you&apos;ve chosen the content, click on
-            the browser extension icon in your browser&apos;s toolbar. This will
-            initiate the party session.
+            After selecting the content, click on the browser extension and then{" "}
+            <span> initiate the party </span>
           </li>
           <li>
-            <span>Generate Link:</span> The extension will generate a unique URL
-            link to your party. You can copy this link and share it with your
-            friends or family members whom you want to invite to the party.
+            You can generate a unique URL, and link to the party. Then just copy
+            the link and <span> share it with your friends </span>
           </li>
           <li>
-            <span>Invite Friends:</span> Share the party link with your loved
-            ones.
+            Just <span> invite your friends </span> and share the link with them
           </li>
           <li>
-            <span> View Together:</span> As your friends join the party, the
-            movie or show will start playing simultaneously for all
-            participants. You can chat and audio and video call while viewing a
-            movie.
+            After inviting them,{" "}
+            <span> watch together and join the party. </span> The best part is
+            you can chat, audio, and video call while watching a movie
           </li>
           <li>
-            <span>Enjoy the Experience: </span>Sit back, relax, and enjoy
-            streaming your favorite content together with your friends in real
-            time, even if you are not physically in the same place
+            At last, sit back and{" "}
+            <span>
+              {" "}
+              just relax while having your favorite show together in real-time.
+            </span>{" "}
+            No matter how far they are
           </li>
         </ul>
 
         <p>
-          But to enjoy the movies together, you need to have a valid
-          subscription on it.
+          Remember before enjoying the movies together, you need to have a
+          subscription.
         </p>
       </div>
     </div>

@@ -13,24 +13,26 @@ const About = () => {
             </div>
             <div className={styles.desc}>
               <p>
-                This extension provides an amazing streaming experience for it’s
-                subscribers. You can view movies and TV shows together with your
-                loved ones in real time, no matter where they are. You can also
-                <span> watch together Disney Plus </span> with your buddy.
+                This extension provides an{" "}
+                <span>
+                  {" "}
+                  amazing streaming experience for it’s subscribers.{" "}
+                </span>{" "}
+                You can <span> watch together Disney Plus </span>for movies and
+                TV shows with your loved ones in real time, no matter where they
+                are. Synchronize your playback and use chat, audio, and video
+                calls to interact while seeing from different places. It's a fun
+                and enjoyable way to share content, even when you're far apart.
               </p>
+
               <p>
-                Synchronize your playback and use chat, audio, and video calls
-                to interact while seeing from different places. It&apos;s a fun and
-                enjoyable way to share content, even when you&apos;re far apart.
-              </p>
-              <p>
-                To use it, simply have a account and install the browser
+                To use it, simply have an account and install the browser
                 extension. The extension will generate a special URL that the
                 host shares with friends or family to invite them to the party.
                 Once everyone is connected, the host starts the movie or show,
                 and all screens sync up, so everyone views together at the same
-                time. It&apos;s a seamless and delightful way to enjoy{" "}
-                <span> Disney plus groupwatch.</span>
+                time. It's a seamless and delightful way to enjoy{" "}
+                <span> Disney plus groupwatch. </span>
               </p>
             </div>
           </div>

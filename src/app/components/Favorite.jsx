@@ -62,13 +62,13 @@ const Favorite = () => {
             </div>
             <div className={styles.desc}>
               <p>
-                Now it’s time to customize your own party with this extension.
-                It’s just you need to choose a create user icon and unlock all
-                the cool features including chat, audio, and video calls. Watch
-                your favorite shows with your close ones in your comfort zone.
-                It offers top content from all your favorite OTT platforms,
-                which provides high-quality shows with fantastic features on
-                Disney+group watch.
+                Now it’s time to customize your own party with Disney plus watch
+                party. It’s just you need to choose a create user icon and
+                unlock all the cool features including chat, audio, and video
+                calls. Watch your favorite shows with your close ones in your
+                comfort zone. It offers top content from all your favorite OTT
+                platforms, which provides high-quality shows with fantastic
+                features on Disney+group watch.
               </p>
             </div>
           </div>

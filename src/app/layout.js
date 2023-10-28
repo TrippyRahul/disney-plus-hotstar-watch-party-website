@@ -13,10 +13,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/x-icon" href="/logo.svg" />
+        <link rel="icon" type="image/x-icon" href="/main-logo.svg" />
         <link rel="canonical" href="https://www.disneyhotstarparty.com/" />
-        <meta name="google-site-verification" content="d59mC439j8AlfuGERQRF6LlfqEm6Jx9WlCsZuNiVhn0" />
-
+        <meta
+          name="google-site-verification"
+          content="d59mC439j8AlfuGERQRF6LlfqEm6Jx9WlCsZuNiVhn0"
+        />
 
         <meta property="og:url" content="https://www.disneyhotstarparty.com/" />
         <meta property="og:type" content="website" />

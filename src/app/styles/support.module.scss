@@ -66,8 +66,7 @@
                     border-radius: .8rem;
                     color:#fff;
                     cursor: pointer;
-                    background: rgb(10,12,53);
-                    background: linear-gradient(333deg, rgba(10,12,53,1) 0%, rgba(45,244,242,1) 100%);
+                    background:#8D8DDB;
 
                     display: flex;
                     align-items: center;
@@ -77,8 +76,8 @@
 
                     &:hover{
                         transform: scale(1.1);
-                        background: rgb(10,12,53);
-                        background: linear-gradient(333deg, rgba(10,12,53,1) 0%, rgba(39,120,95,1) 37%, rgba(243,231,21,1) 100%, rgba(45,244,242,1) 100%);
+                        background: white;
+                        color: #8D8DDB;
                     }
                 }
             }

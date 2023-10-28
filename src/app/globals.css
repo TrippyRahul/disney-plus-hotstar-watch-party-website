@@ -22,10 +22,23 @@ html {
 }
 
 body {
-  background: rgb(0,0,0);
-background: linear-gradient(333deg, rgba(0,0,0,1) 54%, rgba(10,12,53,1) 100%);
+  background: #090735;
 }
 
+.header-bg{
+  background: url('/header-bg.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.header-bg-container{
+  background: rgb(9,7,53);
+background: -moz-linear-gradient(0deg, rgba(9,7,53,1) 0%, rgba(9,7,53,0) 100%);
+background: -webkit-linear-gradient(0deg, rgba(9,7,53,1) 0%, rgba(9,7,53,0) 100%);
+background: linear-gradient(0deg, rgba(9,7,53,1) 0%, rgba(9,7,53,0) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#090735",endColorstr="#090735",GradientType=1); 
+}
 .image-container {
   width: 100%;
 

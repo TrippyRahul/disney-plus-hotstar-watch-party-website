@@ -11,7 +11,7 @@
         gap: 10rem;
 
         .left{
-            flex: .5;
+            flex: 1;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -54,6 +54,7 @@
                         line-height: 5.5rem;
                         letter-spacing: 0em;
                         text-align: left;
+                        // color: #8D8DDB;
 
                     }
                 }

@@ -1,7 +1,5 @@
 .footer{
-    // height: 100vh;
-    background-color: #111;
-    // padding: 10rem 4rem;
+ 
     position: relative;
     overflow: hidden;
     padding-top: 10rem;
@@ -84,10 +82,10 @@
                     line-height: 3.3rem;
                     letter-spacing: 0em;
                     text-align: center;
-                    color: gray;
+                    color: rgba(255, 255, 255, 0.534);
 
                     span{
-                        color: #2DF4F2;
+                        color: #8D8DDB;
                     }
                 }
             }

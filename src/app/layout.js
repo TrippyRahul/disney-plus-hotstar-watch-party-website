@@ -2,6 +2,7 @@ import Schema from "./Schema";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import "./globals.css";
+import Script from "next/script";
 
 export const metadata = {
   title: "Enjoy movie hub with Disney plus watch party",
@@ -46,6 +47,18 @@ export default function RootLayout({ children }) {
         <meta
           name="twitter:image"
           content="https://www.disneyhotstarparty.com/footer-logo.svg"
+        />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-FT03V12KMW" />
+        <Script
+          id="gtm-script"
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-FT03V12KMW');
+          `,
+          }}
         />
       </head>
       <body>
